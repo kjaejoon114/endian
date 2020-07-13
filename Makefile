@@ -5,3 +5,4 @@ add-nbo.o : add-nbo.cpp
 
 clean:
 	rm -f endain
+
